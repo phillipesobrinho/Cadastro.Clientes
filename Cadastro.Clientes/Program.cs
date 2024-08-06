@@ -10,7 +10,7 @@ namespace Cadastro.Clientes
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmCardCliente());
+            Application.Run(new FrmMenuClientes());
         }
     }
 }
